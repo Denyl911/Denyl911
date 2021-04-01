@@ -1,4 +1,4 @@
-<img src="https://github.com/Denyl911/Denyl911/blob/master/Hey%2C%20i'm%20Denyl.svg"/>
+<img src="https://github.com/Denyl911/Denyl911/blob/master/denyl.svg"/>
 
 
 <p><em>A mechatronic engineering student. 😊</br>
