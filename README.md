@@ -1,14 +1,13 @@
 <img src="https://github.com/Denyl911/Denyl911/blob/master/denyl.svg"/>
 
 
-<p><em>A mechatronic engineering student. 😊</br>
+<p><em>A Computer systems engineering student. 😊</br>
 </em></p>
 
 
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   studies: "Computer systems engineering",
    code: [Javascript, HTML, CSS, Python, Go],
    technologies: {
       frontEnd: {
