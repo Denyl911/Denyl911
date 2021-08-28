@@ -8,19 +8,20 @@
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Javascript, HTML, CSS, Python],
+   studies: "Computer systems engineering",
+   code: [Javascript, HTML, CSS, Python, Go],
    technologies: {
       frontEnd: {
          js: ["Vue", "Svelte"],
          css: ["Bulma", "Bootstrap"]
       },
       backEnd: {
-         js: ["Node", "Express"],
+         js: ["Node", "Express", "Gin"],
       },
       databases: ["MongoDB", "mySQL"],
    },
    currentOccupation: ["last year student, open for job opportunities"],
-   challenge: "I'm working towards being able to run a marathon.",
+   challenge: "I'm working to fulfill my dreams",
 };
 ```
 </br></br>
