@@ -17,7 +17,7 @@ const aboutMe = {
       backEnd: {
          js: ["Node", "Express", "Gin"],
       },
-      databases: ["MongoDB", "mySQL"],
+      databases: ["MongoDB", "mySQL", "PostgreSQL"],
    },
    currentOccupation: ["last year student, open for job opportunities"],
    challenge: "I'm working to fulfill my dreams",
