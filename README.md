@@ -7,17 +7,19 @@
 
 ```javascript
 const aboutMe = {
-   pronouns: "he" | "him",
-   code: [Javascript, HTML, CSS, Python, Go],
+   code: [Javascript, TypeScript, HTML, CSS, Python],
    technologies: {
       frontEnd: {
-         js: ["Vue", "Svelte"],
-         css: ["Bulma", "Bootstrap"]
+         js: ["Vue", "Svelte", "React"],
+         css: ["tailwindcss", "Bulma", "Bootstrap"]
       },
       backEnd: {
-         js: ["Node", "Express", "Gin"],
+         js: ["Node", "Express", "Bun"],
+         ts: ["Bun", "Elysia"],
+         databases: ["MySQL", "PostgreSQL", "MongoDB"],
+         orms: ["sequelize", "drizzle", "mongoose"]
       },
-      databases: ["MongoDB", "mySQL", "PostgreSQL"],
+      mobile: ["React Native", "Expo"]
    },
    currentOccupation: ["last year student, open for job opportunities"],
    challenge: "I'm working to fulfill my dreams",
